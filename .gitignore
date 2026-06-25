@@ -25,3 +25,5 @@ Thumbs.db
 
 
 .env
+
+task_2/output/summary.json
