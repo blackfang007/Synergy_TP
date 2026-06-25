@@ -1,0 +1,10 @@
+# Task 2 — Python Recap: Student Submission Analyzer
+# This task uses only Python standard library modules.
+# No external packages are required.
+#
+# Standard library modules used:
+#   csv    — reading CSV input files
+#   json   — writing JSON output files
+#   os     — file path checks and directory creation
+#   sys    — CLI argument parsing and exit codes
+#   typing — type hint support (Any)
