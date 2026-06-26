@@ -1,0 +1,27 @@
+{
+    "total_rows": 10,
+    "total_columns": 9,
+    "columns": [
+        "student_id",
+        "name",
+        "domain",
+        "attendance_percent",
+        "score",
+        "study_hours",
+        "height_cm",
+        "weight_kg",
+        "submitted"
+    ],
+    "missing_values": {},
+    "duplicate_rows": 0,
+    "unique_domain": [
+        "ML",
+        "Web",
+        "Electronics",
+        "Mechanical"
+    ],
+    "unique_submitted": [
+        "yes",
+        "no"
+    ]
+}
